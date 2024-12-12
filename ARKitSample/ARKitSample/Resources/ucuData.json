@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Edificio Sacre",
+        "city": "Montevideo",
+        "id": 1001,
+        "address": "Av. 8 de Octubre 2738",
+        "coordinates": {
+            "longitude": -56.15941
+            "latitude": -34.88873
+        },
+        "description": " ",
+        "imageName": "edificioSacre"
+    },
+    {
+        "name": "Edificio Semprun",
+        "city": "Montevideo",
+        "id": 1002,
+        "address": "Estero Bellaco 2771",
+        "coordinates": {
+            "longitude": -56.15878
+            "latitude": -34.88811
+        },
+        "description": " ",
+        "imageName": "edificioSemprun"
+    },
+    {
+        "name": "Edificio Mullin",
+        "city": "Montevideo",
+        "id": 1003,
+        "address": "Comandante Braga 2715",
+        "coordinates": {
+            "longitude": -56.15864
+            "latitude": -34.88666
+        },
+        "description": " ",
+        "imageName": "edificioMullin"
+    },
+    {
+        "name": "Edificio San Ignacio",
+        "city": "Montevideo",
+        "id": 1004,
+        "address": "Cornelio Cantera 2733",
+        "coordinates": {
+            "longitude": -56.15889
+            "latitude": -34.88919
+        },
+        "description": " ",
+        "imageName": "edificioSanIgnacio"
+    },
+    {
+        "name": "Edificio Apolonia",
+        "city": "Montevideo",
+        "id": 1005,
+        "address": "Av. 8 de Octubre 2733",
+        "coordinates": {
+            "longitude": -56.15969
+            "latitude": -34.88850
+        },
+        "description": " ",
+        "imageName": "edificioApolonia"
+    },
+    {
+        "name": "Edificio Athanasius",
+        "city": "Montevideo",
+        "id": 1006,
+        "address": "Gral. Urquiza 2871",
+        "coordinates": {
+            "longitude": -56.15899
+            "latitude": -34.88616
+        },
+        "description": " ",
+        "imageName": "edificioAthanasius"
+    },
+]
